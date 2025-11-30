@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "photos/index.html",
+    "href": "photos/index.html",
+    "title": "Photos",
+    "section": "",
+    "text": "Here are some photos of me!"
+  },
+  {
+    "objectID": "aboutme/index.html",
+    "href": "aboutme/index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "A little about my experiences!\n\n\n\nDuring my undergrad at Pitt, I did research in Dr. Radha Gopal’s lab where I mostly performed wet lab procedures such as PCR, RNA extraction, cell treatment and genotyping to investigate the impact of influenza on heart disease. Here are two publications that I co-authored during my time there:\nhttps://www.nature.com/articles/s41598-024-61953-z\nhttps://academic.oup.com/jimmunol/advance-article/doi/10.1093/jimmun/vkaf276/8307038?login=false\nAfter that experience, I also worked in Dr. David Koes’ drug discovery lab where I investigated potential ligands to Glycine receptors for analgesia and compared them to THC. Here I worked with modeling and simulation tools, Linux, and Python for data analysis and visualization.\nDuring the summer of 2023, I was a recipient of a full scholarship to the NIAID funded Boston University Summer Institute for Research Education in Biostatistics and Data Science. Here, I trained in modules in biostatistics, epidemiology, clinical trials, statistical genetics, and infectious disease modeling and trained in SAS, R, and high-performance computing clusters. The program culminated in a collaborative research project and presentation analyzing a real Ukrainian tuberculosis dataset in R.\nAfter my undergrad, I took a gap year where I did research under Dr. Dennis Kostka. Here, I co-developed a method to estimate metabolic flux with scRNA-seq data using Pytorch to incorporate machine learning into our bioinformatics pipeline.\nNow, I hope to use my background in biostatistics, computer science, and biology to work in the fields of Epidemiology and Biostatistics and work on addressing public health issues."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHi! I’m Vennila Ramasubramanian and I am a first year Epidmemiology + Biostatistics PhD Student at Case Western Reserve University! I recently graduated from the University of Pittsburgh in 2024 with a B.S. in Computational Biology and a certificate in Global Health. During and after my PhD, I hope to use my computational skills to address public health problems!"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  }
+]
