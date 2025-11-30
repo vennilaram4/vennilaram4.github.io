@@ -1,0 +1,25 @@
+---
+title: "About Me"
+---
+
+A little about my experiences!
+
+::: {layout-ncol=2}
+:::
+
+
+During my undergrad at Pitt, I did research in Dr. Radha Gopal's lab where I mostly performed wet lab procedures such as PCR, RNA extraction, cell treatment and genotyping to investigate the impact of influenza on heart disease. Here are two publications that I co-authored during my time there:
+
+https://www.nature.com/articles/s41598-024-61953-z
+
+https://academic.oup.com/jimmunol/advance-article/doi/10.1093/jimmun/vkaf276/8307038?login=false
+
+
+After that experience, I also worked in Dr. David Koes' drug discovery lab where I investigated potential ligands to Glycine receptors for analgesia and compared them to THC. Here I worked with modeling and simulation tools, Linux, and Python for data analysis and visualization.
+
+During the summer of 2023, I was a recipient of a full scholarship to the NIAID funded Boston University Summer Institute for Research Education in Biostatistics and Data Science. Here, I trained in modules in biostatistics, epidemiology, clinical trials, statistical genetics, and infectious disease modeling and trained in SAS, R, and high-performance computing clusters. The program culminated in a collaborative research project and presentation analyzing a real Ukrainian tuberculosis dataset in R. 
+
+After my undergrad, I took a gap year where I did research under Dr. Dennis Kostka. Here, I co-developed a method to estimate metabolic flux with scRNA-seq data using Pytorch to incorporate machine learning into our bioinformatics pipeline. 
+
+Now, I hope to use my background in biostatistics, computer science, and biology to work in the fields of Epidemiology and Biostatistics and work on addressing public health issues. 
+

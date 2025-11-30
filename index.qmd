@@ -1,0 +1,38 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/brooklynpic.JPG"
+  links:
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vennilaram
+    - icon: envelope
+      text: Email
+      href: "mailto:vennila.ramasubramanian@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+
+# Welcome to my website!
+
+Hi! I'm Vennila Ramasubramanian and I am a first year Epidmemiology + Biostatistics PhD Student at Case Western Reserve University! I recently graduated from the University of Pittsburgh in 2024 with a B.S. in Computational Biology and a certificate in Global Health. During and after my PhD, I hope to use my computational skills to  address public health problems!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

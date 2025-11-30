@@ -1,0 +1,15 @@
+---
+title: "Photos"
+---
+
+Here are some photos of me!
+
+::: {layout-ncol=2}
+
+![](whitecoatgroup.jpg)
+
+![](poster.jpg)
+
+:::
+
+
