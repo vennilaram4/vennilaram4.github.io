@@ -16,7 +16,7 @@ website:
     # your sub-pages
     left:
       - text: "Experience"
-        href: aboutme/index.qmd
+        href: experience/index.qmd
       - text: "Photos"
         href: photos/index.qmd
       - text: "CV"
